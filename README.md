@@ -40,6 +40,7 @@ Visit our [project website](https://tanhiep-to.github.io/GenKOL.github.io/) for 
 ## Contact
 
 - **Tan-Hiep To**: [GitHub](https://github.com/TanHiep-To)
+- **Duy-Khang Nguyen**: [GitHub](https://github.com/duykhang2103)
 - **Trung-Nghia Le**: [Google Scholar](https://scholar.google.com/citations?user=n8ZQzx8AAAAJ&hl=en&oi=ao)
 - **Minh-Triet Tran**: [Google Scholar](https://scholar.google.com/citations?hl=en&user=lt2ATkkAAAAJ)
 
